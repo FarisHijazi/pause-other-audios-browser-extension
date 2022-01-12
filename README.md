@@ -18,7 +18,21 @@ Currently only Google Chrome is supported
 
 Pending review ...
 
-### Option 2: Install using [GitHub releases](https://github.com/FarisHijazi/pause-other-audios-browser-extension/releases)
+### Option 2: Download as development extension
+
+Follow [this guide](https://webkul.com/blog/how-to-install-the-unpacked-extension-in-chrome/).
+
+Summary:
+
+1. Download and unzip this repository (see the "Code" button on top)
+2. extract the zip file
+3. Go to chrome extensions and enable "developer mode"
+4. Click "load unpacked" > choose this folder
+5. Done
+
+### Option 3: Install using [GitHub releases](https://github.com/FarisHijazi/pause-other-audios-browser-extension/releases)
+
+(Experimental, may not work)
 
 Download the latest .crx release [here](https://github.com/FarisHijazi/pause-other-audios-browser-extension/releases/download/v1.0/pause-other-audios.crx) and open it with Chrome (rightclick open with ...)
 
