@@ -20,6 +20,6 @@ Pending review ...
 
 ### Option 2: Install using [GitHub releases](https://github.com/FarisHijazi/pause-other-audios-browser-extension/releases)
 
-Download the latest release [here](https://github.com/FarisHijazi/pause-other-audios-browser-extension/releases/download/v1.0/pause-other-audios.crx) and run it
+Download the latest .crx release [here](https://github.com/FarisHijazi/pause-other-audios-browser-extension/releases/download/v1.0/pause-other-audios.crx) and open it with Chrome (rightclick open with ...)
 
 
