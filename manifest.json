@@ -1,0 +1,36 @@
+{
+  "name": "Pause other audios",
+  "description": "Pauses any other audio element once you click on a new one",
+  "version": "1.0",
+  "manifest_version": 3,
+  "background": {
+    "service_worker": "background.js"
+  },
+  "permissions": [
+    "activeTab",
+    "scripting"
+  ],
+  "action": {
+    "default_icon": {
+      "128": "/images/icon128.png"
+    }
+  },
+  "icons": {
+    "128": "/images/icon128.png"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "*://*/*",
+        "file:///*"
+      ],
+      "js": [
+        "main.user.js"
+      ]
+    }
+  ],
+  "host_permissions": [
+    "*://*/*",
+    "file:///*"
+  ]
+}
