@@ -6,8 +6,20 @@ Tired of waiting for the previous audio to finish playing until you can play the
 
 No more overlapping audios!
 
-![](images/pause-other-audios-demo.gif)
+![demo](images/pause-other-audios-demo.gif)
 
 ---
 
-Currently only Google Chrome is supported, extension is under review
+## Installation
+
+Currently only Google Chrome is supported
+
+### Option 1: Install from [Chrome Web Store](https://chrome.google.com/webstore/category/extensions)
+
+Pending review ...
+
+### Option 2: Install using [GitHub releases](https://github.com/FarisHijazi/pause-other-audios-browser-extension/releases)
+
+Download the latest release [here](https://github.com/FarisHijazi/pause-other-audios-browser-extension/releases/download/v1.0/pause-other-audios.crx) and run it
+
+
