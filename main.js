@@ -6,9 +6,11 @@ function listener(e) {
         }
     }
 };
+
 function addListeners() {
     document.querySelectorAll('audio').forEach(audio => {
         if (audio.classList.contains('poa-listener')) {
+            // don't put a listener twice
             return;
         }
         audio.addEventListener('play', listener);
@@ -17,13 +19,9 @@ function addListeners() {
 };
 
 function main() {
-    console.log('main.user.js')
     addListeners();
-
     document.addEventListener('ready', function (e) {
-        console.log('document ready');
         addListeners();
-
     });
 }
 
