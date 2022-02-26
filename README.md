@@ -14,9 +14,9 @@ No more overlapping audios!
 
 Currently only Google Chrome is supported
 
-### Option 1: Install from [Chrome Web Store](https://chrome.google.com/webstore/category/extensions)
+### Option 1: Install from Chrome Web Store
 
-Pending review ...
+[Install extension from Chrome Web Store](https://chrome.google.com/webstore/detail/pause-other-audios/nbejhkdpgcfobedijbgomomlpekklhhd)
 
 ### Option 2: Download as development extension
 
